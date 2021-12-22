@@ -1,0 +1,6 @@
+CNN model (Provided by Advanved deep learning with tensorflow2 and keras book source code)
+
+0. mlp (multilayer perceptron)
+1. basic cnn (improved LeNet-5)
+2. cnn tuning (cnn - y - network)
+3. resnet - v1 and improved resnet - v2
